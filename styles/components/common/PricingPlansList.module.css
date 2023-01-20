@@ -1,0 +1,6 @@
+.pricing_plans_list {
+  display: flex;
+  gap: 11px;
+  width: fit-content;
+  height: fit-content;
+}

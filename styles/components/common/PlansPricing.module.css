@@ -1,0 +1,29 @@
+.plans_pricing {
+  width: 100%;
+  padding-bottom: 160px;
+  padding-top: 96px;
+}
+.plans_pricing .title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 48px;
+}
+.plans_pricing .title .heading {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #0182f1;
+}
+.plans_pricing .title .description {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #fff;
+}
+.plans_pricing .content {
+  display: flex;
+  justify-content: space-between;
+}
